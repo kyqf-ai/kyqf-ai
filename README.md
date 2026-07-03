@@ -46,13 +46,18 @@
 ### 📊 GitHub 活跃度统计 (GitHub Stats)
 
 <p align="center">
+  <!-- 荣誉奖杯展示 -->
   <a href="https://github.com/kyqf-ai">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyqf-ai&show_icons=true" alt="kyqf-ai's GitHub Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=kyqf-ai&theme=radical&column=5" alt="kyqf-ai's Trophies" />
   </a>
 </p>
+
+<br/>
+
 <p align="center">
+  <!-- 连续贡献/绿墙数据统计 -->
   <a href="https://github.com/kyqf-ai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyqf-ai&layout=compact" alt="kyqf-ai's Top Languages" />
+    <img src="https://streak-stats.demolab.com/?user=kyqf-ai&theme=dark" alt="kyqf-ai's GitHub Streak" />
   </a>
 </p>
 
