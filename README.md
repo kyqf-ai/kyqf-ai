@@ -14,6 +14,7 @@
 - 🔮 **我的项目充满多样性**：从用代码解析传统命理学的 **[八字排盘系统]** 和 **[紫微斗数]**，到解决实际业务需求的 **[绿色矿山管理系统]**，再到提升电脑运行效率的 **[系统垃圾清理脚本]**。
 - 💡 理念：用代码去解决实际问题，同时也用技术去传承与展现传统逻辑之美。
 - ⚡ 隐藏技能：可能是一个精通八字和紫微斗数的全栈开发者。
+- 💘 最后澄清：实际上我既不懂命理也不懂编程，我目前是中级化工工程师，实际上从事的工作是选矿。
 
 ---
 
@@ -46,12 +47,12 @@
 
 <p align="center">
   <a href="https://github.com/kyqf-ai">
-    <img src="https://github-readme-stats.vercel.app/api?username=kyqf-ai&show_icons=true&theme=radium&locale=cn&hide_border=true" alt="kyqf-ai's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kyqf-ai&show_icons=true" alt="kyqf-ai's GitHub Stats" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/kyqf-ai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyqf-ai&layout=compact&theme=radium&locale=cn&hide_border=true" alt="kyqf-ai's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyqf-ai&layout=compact" alt="kyqf-ai's Top Languages" />
   </a>
 </p>
 
