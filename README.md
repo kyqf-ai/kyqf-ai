@@ -11,14 +11,15 @@
 ### 👋 关于我
 
 - 🏭 我的本职工作是选矿，目前是一名中级化工工程师。
-- 💻 编程是我持续学习和实践的方向，平时会尝试做一些小工具和个人项目。
-- 🌱 正在接触 PHP、HTML/CSS、PowerShell 和 MySQL。
+- 💻 编程是我持续学习和实践的方向，平时会尝试做一些实用工具和个人项目。
+- 🌱 正在接触和使用 C、PHP、HTML/CSS、PowerShell 与 MySQL。
 - 🔎 对传统文化、实用工具，以及技术如何解决具体问题感兴趣。
 - 🤝 欢迎交流，也欢迎指出项目中可以改进的地方。
 
 ### 🧰 正在学习与使用
 
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -31,6 +32,7 @@
 
 | 项目 | 技术 | 简介 |
 | :--- | :--- | :--- |
+| [rain](https://github.com/kyqf-ai/rain) | C | 雨量采集托盘程序：通过串口读取雨量计数据，保存至 SQLite，并提供 Windows 托盘程序和本地网页查询界面。 |
 | [bazi](https://github.com/kyqf-ai/bazi) | HTML | 八字排盘与信息展示相关的 Web 项目。 |
 | [ziwei](https://github.com/kyqf-ai/ziwei) | PHP | 紫微斗数排盘相关的项目实践。 |
 | [green_mine_system](https://github.com/kyqf-ai/green_mine_system) | PHP | 面向绿色矿山管理场景的系统项目。 |
@@ -41,6 +43,6 @@
 
 ### 📫 联系
 
-- GitHub：[ @kyqf-ai ](https://github.com/kyqf-ai)
+- GitHub：[@kyqf-ai](https://github.com/kyqf-ai)
 
 <p align="center"><sub>感谢来访，祝你今天顺利！</sub></p>
